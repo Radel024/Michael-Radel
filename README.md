@@ -1,7 +1,7 @@
 <h1>Hi, I'm Michael!, <a href="https://www.linkedin.com/in/michael-radel/">Cybersecurity Professional</a>, 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Python Weather Data Base </b>
+- <b>Python Weather Data Base</b>
   -[Practice uploading a local weather database, and extracting data visualization on Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Fundemtal of InfoSec Demonstaration</b>
   - [IMplentation Key secruity fucntions](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
