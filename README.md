@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael!, <a href="https://www.linkedin.com/in/michael-radel/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Michael!,<b></b> <a href="https://www.linkedin.com/in/michael-radel/">Cybersecurity Professional</a>, </h1></b>
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Python Weather Data Base</b>
