@@ -4,13 +4,13 @@
 - <b>Python Weather Data Base</b>
   - [Uploading a local weather database, and extracting data visualization on Python](https://github.com/Radel024/IT-Fundamentals-?search=1)
 - <b>Fundemtal of InfoSec Demonstaration</b>
-  - [IMplentation Key secruity fucntions]) <b><i>(Potentially NSFW)</b></i>
+  - [IMplentation Key secruity fucntions]) <b><i></b></i>
 - <b>Base Linux Demonstration</b>
-  - [Essintal linux task demonstration])
+  - [Essintal linux task demonstration]
 - <b>Essintal Netwokring Concepts</b>
-  - [Desing and devlopment of a virutal SHOHO network]()
+  - [Desing and devlopment of a virutal SHOHO network]
 - <b>Cloud Fundemtnals</b>
-  - [setup and monitoring cloud using Azure)])
+  - [setup and monitoring cloud using Azure]
 
 <h2> 🤳 Connect with me:</h2>
 
