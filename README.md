@@ -2,15 +2,15 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Python Weather Data Base</b>
-  - [Uploading a local weather database, and extracting data visualization on Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Uploading a local weather database, and extracting data visualization on Python]()
 - <b>Fundemtal of InfoSec Demonstaration</b>
-  - [IMplentation Key secruity fucntions](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [IMplentation Key secruity fucntions]) <b><i>(Potentially NSFW)</b></i>
 - <b>Base Linux Demonstration</b>
-  - [Essintal linux task demonstration](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Essintal linux task demonstration])
 - <b>Essintal Netwokring Concepts</b>
-  - [Desing and devlopment of a virutal SHOHO network](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Desing and devlopment of a virutal SHOHO network]()
 - <b>Cloud Fundemtnals</b>
-  - [setup and monitoring cloud using Azure)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [setup and monitoring cloud using Azure)])
 
 <h2> 🤳 Connect with me:</h2>
 
