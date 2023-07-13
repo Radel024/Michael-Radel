@@ -2,7 +2,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Python Weather Data Base</b>
-  - [Uploading a local weather database, and extracting data visualization on Python]()
+  - [Uploading a local weather database, and extracting data visualization on Python](https://github.com/Radel024/IT-Fundamentals-?search=1)
 - <b>Fundemtal of InfoSec Demonstaration</b>
   - [IMplentation Key secruity fucntions]) <b><i>(Potentially NSFW)</b></i>
 - <b>Base Linux Demonstration</b>
