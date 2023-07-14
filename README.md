@@ -8,7 +8,7 @@
 - <b>Base Linux Demonstration</b>
   - [Essintal linux task demonstration](https://github.com/Radel024/Linux-Knowldge/blob/main/README.md)
 - <b>Fundementals of Information Security</b>
-  - [Display of functional Security Measures](https://github.com/Radel024/Fundamentals-of-Information-Security-/blob/main/README.md)
+  - [Principles of Security Mgmt](https://github.com/Radel024/Fundamentals-of-Information-Security-/blob/main/README.md)
 - <b>Cloud Fundemtnals</b>
   - [setup and monitoring cloud using Azure]
 
