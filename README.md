@@ -19,6 +19,7 @@
 
 [instagram]: https://www.instagram.com/radel24/
 [linkedin]: https://linkedin.com/in/michael-radel
+[Wix]: https://mjraid24.wixsite.com/michael-radel
 
 <!--
 - 🔭 I’m currently working on ...
