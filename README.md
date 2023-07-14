@@ -3,12 +3,12 @@
 
 - <b>Python Weather Data Base</b>
   - [Uploading a local weather database, and extracting data visualization on Python](https://github.com/Radel024/IT-Fundamentals-?search=1)
-- <b>Fundemtal of InfoSec Demonstaration</b>
+- <b>Principles of Security Mgmt</b>
   - [Demonstration of NIST and Policy](https://github.com/Radel024/Principles-of-Security-Mgmt)
 - <b>Base Linux Demonstration</b>
   - [Essintal linux task demonstration](https://github.com/Radel024/Linux-Knowldge/blob/main/README.md)
-- <b>Fundementals of Information Security</b>
-  - [Principles of Security Mgmt](https://github.com/Radel024/Fundamentals-of-Information-Security-/blob/main/README.md)
+- <b>  - [Fundamentals of Information Security](https://github.com/Radel024/Fundamentals-of-Information-Security-/blob/main/README.md) Mgmt</b>
+  - [Implementing key security measures](https://github.com/Radel024/Fundamentals-of-Information-Security-/blob/main/README.md)
 - <b>Cloud Fundemtnals</b>
   - [setup and monitoring cloud using Azure]
 
