@@ -10,7 +10,7 @@
 - <b>Fundamentals of Information Security</b>
   - [Implementing key security measures](https://github.com/Radel024/Fundamentals-of-Information-Security-/blob/main/README.md)
 - <b>Cloud Fundemtnals</b>
-  - [setup and monitoring cloud using Azure]
+  - setup and monitoring cloud using Azure
 
 <h2> 🤳 Connect with me:</h2>
 
