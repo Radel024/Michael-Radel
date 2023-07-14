@@ -7,7 +7,7 @@
   - [Demonstration of NIST and Policy](https://github.com/Radel024/Principles-of-Security-Mgmt)
 - <b>Base Linux Demonstration</b>
   - [Essintal linux task demonstration](https://github.com/Radel024/Linux-Knowldge/blob/main/README.md)
-- <b>[Fundamentals of Information Security]</b>
+- <b>Fundamentals of Information Security</b>
   - [Implementing key security measures](https://github.com/Radel024/Fundamentals-of-Information-Security-/blob/main/README.md)
 - <b>Cloud Fundemtnals</b>
   - [setup and monitoring cloud using Azure]
