@@ -16,13 +16,12 @@
 
 [<img align="left" alt="MichaelRadel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MichaelRadel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="MichaelRadel | Wix" width="22px" src="22px src="https://imgur.com/a/zV4Tgq7" />][Wix]
 
 
 
 [instagram]: https://www.instagram.com/radel24/
 [linkedin]: https://linkedin.com/in/michael-radel
-[Wix]: https://mjraid24.wixsite.com/michael-radel
+
 
 <!--
 - 🔭 I’m currently working on ...
