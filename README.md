@@ -7,8 +7,8 @@
   - [Fundamental understand of NIST and Policy](https://github.com/Radel024/Principles-of-Security-Mgmt)
 - <b>Base Linux Demonstration</b>
   - [Essintal linux task demonstration](https://github.com/Radel024/Linux-Knowldge/blob/main/README.md)
-- <b>Essintal Netwokring Concepts</b>
-  - [Desing and devlopment of a virutal SHOHO network]
+- <b>Fundementals of Information Security</b>
+  - [Display of functional Security Measures](https://github.com/Radel024/Fundamentals-of-Information-Security-/blob/main/README.md)
 - <b>Cloud Fundemtnals</b>
   - [setup and monitoring cloud using Azure]
 
