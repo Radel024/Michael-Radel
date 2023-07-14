@@ -16,6 +16,8 @@
 
 [<img align="left" alt="MichaelRadel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MichaelRadel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MichaelRadel | Wix" width="22px" src=![download](https://github.com/Radel024/Michael-Radel/assets/137848295/3306146b-f515-4f1c-bd5e-1bd739a4f99a)
+
 
 [instagram]: https://www.instagram.com/radel24/
 [linkedin]: https://linkedin.com/in/michael-radel
