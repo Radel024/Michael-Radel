@@ -3,7 +3,7 @@
 
 - <b>Python Weather Data Base</b>
   - [Uploading a local weather database, and extracting data visualization on Python](https://github.com/Radel024/IT-Fundamentals-?search=1)
-- <b>SEIM and End Point Detection Lab Base</b>
+- <b>SOC Analyis Lab Base</b>
   - [Implamenting an EDR and malware](https://github.com/Radel024/IT-Fundamentals-?search=1)
 - <b>Principles of Security Mgmt</b>
   - [Demonstration of NIST and Policy](https://github.com/Radel024/Principles-of-Security-Mgmt)
