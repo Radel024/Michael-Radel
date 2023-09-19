@@ -14,7 +14,7 @@
 - <b>Cloud Fundemtnals</b>
   - [Setup and monitoring cloud using Azure](https://github.com/Radel024/Cloud-Fundamentals)
 - <b>Mulit Cloud DevOps </b>
-  - [Project to display the use of a multi-cloud architecture with GCP and AZure to create a Luxary Hotel Covide API](https://github.com/Radel024/MultiCloudDevOps)
+  - [Project to display the use of a multi-cloud architecture with GCP and AWS to create a Luxary Hotel Covide API](https://github.com/Radel024/MultiCloudDevOps)
 
 <h2> 🤳 Connect with me:</h2>
 
