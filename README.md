@@ -27,6 +27,13 @@
 [linkedin]: https://linkedin.com/in/michael-radel
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Radel024&show_icons=true&theme=dark&hide_border=false">
+  <br/>
+  <br/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
