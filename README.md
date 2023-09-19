@@ -1,8 +1,5 @@
 <h1>Hi, I'm Michael!<br/> <a href="https://www.linkedin.com/in/michael-radel/">A Biometric Support Technician</a> </h1>    
-<p align="Center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radel024&show_icons=true&theme=dark&hide_border=false">
-  <br/>
-  <br/>
+
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Python Weather Data Base</b>
@@ -36,7 +33,11 @@
 [instagram]: https://www.instagram.com/radel24/
 [linkedin]: https://linkedin.com/in/michael-radel
 
-
+<h>
+<p align="Center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Radel024&show_icons=true&theme=dark&hide_border=false">
+  <br/>
+  <br/>
 
 <!--
 - 🔭 I’m currently working on ...
