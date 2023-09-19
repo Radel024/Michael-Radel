@@ -1,4 +1,8 @@
-<h1>Hi, I'm Michael!<br/> <a href="https://www.linkedin.com/in/michael-radel/">A Biometric Support Technician</a> </h1>
+<h1>Hi, I'm Michael!<br/> <a href="https://www.linkedin.com/in/michael-radel/">A Biometric Support Technician</a> </h1>    
+<p align="Center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Radel024&show_icons=true&theme=dark&hide_border=false">
+  <br/>
+  <br/>
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Python Weather Data Base</b>
@@ -16,6 +20,12 @@
 - <b>Mulit Cloud DevOps </b>
   - [Project to display the use of a multi-cloud architecture with GCP and AWS to create a Luxary Hotel Covide API](https://github.com/Radel024/MultiCloudDevOps)
 
+
+
+
+
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MichaelRadel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -27,12 +37,6 @@
 [linkedin]: https://linkedin.com/in/michael-radel
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Radel024&show_icons=true&theme=dark&hide_border=false">
-  <br/>
-  <br/>
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-</p>
 
 <!--
 - 🔭 I’m currently working on ...
