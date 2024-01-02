@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael!<br/> <a href="https://www.linkedin.com/in/michael-radel/">A Biometric Support Technician</a> </h1>    
+<h1>Hi, I'm Michael!<br/> <a href="https://www.linkedin.com/in/michael-radel/">a Cyber Security Professional</a> </h1>    
 
 <h2>👨‍💻 IT Projects:</h2>
 
